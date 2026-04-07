@@ -37,7 +37,3 @@ This project helps beginners learn:
 
 ---
 
-## Author
-Shubhanshi Shaurya
-
----
